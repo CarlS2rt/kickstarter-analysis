@@ -7,6 +7,7 @@ Overall, theater is the most successful category for US Kickstarter campaigns wi
 ![image_name](https://raw.githubusercontent.com/CarlS2rt/kickstarter-analysis/main/Kickstarter%20Outcomes.PNG)
 
 From an analysis of months when successful Kickstarters were launched, the most successful time to begin a campaign is May with June and July still outperforming all other months.
+
 ![image_name](https://raw.githubusercontent.com/CarlS2rt/kickstarter-analysis/main/Kickstarter%20Outcomes%20Dates.PNG)
 
 Based on the above data, launching a Kickstarter to fund a play has a very high liklihood of success, especially when started in May.
